@@ -1,3 +1,4 @@
 # DuAT
 
-coming soon!!!
+The network part has been uploaded!
+
