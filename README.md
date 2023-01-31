@@ -1,7 +1,7 @@
 # DuAT
 Feilong Tang, Qiming Huang, Jinfeng Wang, Xianxu Hou, Jionglong Su, and Jingxin Liu
 
-This repo is the official implementation of ["DuAT: DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation"](https://arxiv.org/abs/2212.11677). 
+This repo is the official implementation of ["DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation"](https://arxiv.org/abs/2212.11677). 
 
 
 
