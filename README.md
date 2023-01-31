@@ -10,8 +10,7 @@ Transformer-based models have been widely demon- strated to be successful in com
 
 
 ## 2. Framework Overview
-![](https://github.com/Barrett-python/DuAT/Fig/fig1.png)
-
+![](https://github.com/Barrett-python/DuAT/blob/main/Fig/fig1.png)
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/duat-dual-aggregation-transformer-network-for/medical-image-segmentation-on-2018-data)](https://paperswithcode.com/sota/medical-image-segmentation-on-2018-data?p=duat-dual-aggregation-transformer-network-for)
