@@ -22,6 +22,16 @@ Transformer-based models have been widely demon- strated to be successful in com
 ## 2. Framework Overview
 ![](https://github.com/Barrett-python/DuAT/blob/main/Fig/fig1.png)
 
+## 3. Results
+### 3.1 Image-level Polyp Segmentation
+![](https://github.com/Barrett-python/DuAT/blob/main/Fig/fig2.png)
+
+## 4. Usage:
+
+### 4.2 Data preparation:
+Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](https://drive.google.com/file/d/1pFxb9NbM8mj_rlSawTlcXG1OdVGAbRQC/view?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
+
+
 
 The network part has been uploaded!
 
