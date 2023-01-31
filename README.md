@@ -42,4 +42,6 @@ Citation If you find this code or idea useful, please cite our work:
 ```
 
 
+## 6. Acknowledgement
+We are very grateful for these excellent works [PraNet](https://github.com/DengPingFan/PraNet), [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT) and [SSformer](https://github.com/Qiming-Huang/ssformer), which have provided the basis for our framework.
 
