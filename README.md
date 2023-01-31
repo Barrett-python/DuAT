@@ -10,7 +10,7 @@ Transformer-based models have been widely demon- strated to be successful in com
 
 
 ## 2. Framework Overview
-![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
+![](https://github.com/Barrett-python/DuAT/Fig/fig1.png)
 
 
 
