@@ -55,6 +55,14 @@ cd DuAT
 bash test.sh
 ```
 
+### 4.6 Evaluating your trained model:
+
+Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPingFan/PraNet)).
+
+Python: Please refer to the work of ACMMM2021 ([link](https://github.com/plemeri/UACANet)).
+
+Please note that we use the Matlab version to evaluate in our paper.
+
 Citation If you find this code or idea useful, please cite our work:
 ## Citation:
 ```
