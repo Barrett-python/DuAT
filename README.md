@@ -25,10 +25,8 @@ Transformer-based models have been widely demon- strated to be successful in com
 ## 3. Results
 ### 3.1 Image-level Polyp Segmentation
 ![](https://github.com/Barrett-python/DuAT/blob/main/Fig/fig2.png)
+The polyp Segmentation prediction results is in [here]([https://arxiv.org/abs/2212.11677](https://drive.google.com/drive/folders/14IDwewAb12HWlxgOFtFB46aMJyqPaKpz)). 
 
-
-
-The network part has been uploaded!
 
 Citation If you find this code or idea useful, please cite our work:
 ## Citation:
