@@ -44,7 +44,7 @@ You should download the pretrained model from [Google Drive](https://drive.googl
 ### 4.4 Training:
 Clone the repository:
 ```
-git clone [https://github.com/DengPingFan/Polyp-PVT.git](https://github.com/Barrett-python/DuAT.git)
+git clone https://github.com/Barrett-python/DuAT.git
 cd DuAT
 bash train.sh
 ```
@@ -66,7 +66,7 @@ Please note that we use the Matlab version to evaluate in our paper.
 
 
 ### 4.7 Well trained model:
-You could download the trained model from [Google Drive](https://drive.google.com/drive/folders/14IDwewAb12HWlxgOFtFB46aMJyqPaKpz)and put the model in directory './model_pth'.
+You could download the trained model from [Google Drive](https://drive.google.com/drive/folders/14IDwewAb12HWlxgOFtFB46aMJyqPaKpz) and put the model in directory './model_pth'.
 
 
 Citation If you find this code or idea useful, please cite our work:
