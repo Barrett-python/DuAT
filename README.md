@@ -25,7 +25,7 @@ Transformer-based models have been widely demon- strated to be successful in com
 ## 3. Results
 ### 3.1 Image-level Polyp Segmentation
 ![](https://github.com/Barrett-python/DuAT/blob/main/Fig/fig2.png)
-The polyp Segmentation prediction results in [here](https://drive.google.com/drive/folders/14IDwewAb12HWlxgOFtFB46aMJyqPaKpz). 
+The polyp Segmentation prediction results in [here](https://drive.google.com/drive/folders/14IDwewAb12HWlxgOFtFB46aMJyqPaKpz?usp=sharing). 
 
 ## 4. Usage:
 ### 4.1 Recommended environment:
@@ -55,6 +55,7 @@ cd DuAT
 bash test.sh
 ```
 
+
 ### 4.6 Evaluating your trained model:
 
 Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPingFan/PraNet)).
@@ -62,6 +63,11 @@ Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPi
 Python: Please refer to the work of ACMMM2021 ([link](https://github.com/plemeri/UACANet)).
 
 Please note that we use the Matlab version to evaluate in our paper.
+
+
+### 4.7 Well trained model:
+You could download the trained model from [Google Drive](https://drive.google.com/drive/folders/14IDwewAb12HWlxgOFtFB46aMJyqPaKpz)and put the model in directory './model_pth'.
+
 
 Citation If you find this code or idea useful, please cite our work:
 ## Citation:
