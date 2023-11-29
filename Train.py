@@ -101,7 +101,7 @@ def train(train_loader, model, optimizer, epoch, test_path):
     save_path = (opt.train_save)
     if not os.path.exists(save_path):
         os.makedirs(save_path)
-    torch.save(model.state_dict(), save_path +str(epoch)+ 'PolypPVT.pth')
+    torch.save(model.state_dict(), save_path +str(epoch)+ 'DuAT.pth')
     # choose the best model
 
     global dict_plot
@@ -117,8 +117,8 @@ def train(train_loader, model, optimizer, epoch, test_path):
         dict_plot['test'].append(meandice)
         if meandice > best:
             best = meandice
-            torch.save(model.state_dict(), save_path + 'PolypPVT.pth')
-            torch.save(model.state_dict(), save_path +str(epoch)+ 'PolypPVT-best.pth')
+            torch.save(model.state_dict(), save_path + 'DuAT.pth')
+            torch.save(model.state_dict(), save_path +str(epoch)+ 'DuAT-best.pth')
             print('##############################################################################best', best)
             logging.info('##############################################################################best:{}'.format(best))
 
@@ -142,7 +142,7 @@ if __name__ == '__main__':
     dict_plot = {'CVC-300':[], 'CVC-ClinicDB':[], 'Kvasir':[], 'CVC-ColonDB':[], 'ETIS-LaribPolypDB':[], 'test':[]}
     name = ['CVC-300', 'CVC-ClinicDB', 'Kvasir', 'CVC-ColonDB', 'ETIS-LaribPolypDB', 'test']
     ##################model_name#############################
-    model_name = 'PolypPVT'
+    model_name = 'DuAT'
     ###############################################
     parser = argparse.ArgumentParser()
 
@@ -191,7 +191,7 @@ if __name__ == '__main__':
 
     # ---- build models ----
     # torch.cuda.set_device(0)  # set your gpu device
-    model = PolypPVT().cuda()
+    model = DuAT().cuda()
 
     best = 0
 
