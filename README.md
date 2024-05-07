@@ -72,11 +72,13 @@ You could download the trained model from [Google Drive](https://drive.google.co
 Citation If you find this code or idea useful, please cite our work:
 ## Citation:
 ```
-@article{tang2022duat,
-  title={DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation},
-  author={Tang, Feilong and Huang, Qiming and Wang, Jinfeng and Hou, Xianxu and Su, Jionglong and Liu, Jingxin},
-  journal={arXiv preprint arXiv:2212.11677},
-  year={2022}
+@inproceedings{tang2023duat,
+  title={DuAT: Dual-aggregation transformer network for medical image segmentation},
+  author={Tang, Feilong and Xu, Zhongxing and Huang, Qiming and Wang, Jinfeng and Hou, Xianxu and Su, Jionglong and Liu, Jingxin},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={343--356},
+  year={2023},
+  organization={Springer}
 }
 ```
 
